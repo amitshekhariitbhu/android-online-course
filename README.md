@@ -31,7 +31,7 @@ MindOrks Android Online Course is an online course in which you learn the indust
 * 3rd Party Libraries like Glide
 * Class Design - OOPs and Structure, Context
 
-## Online Course Process
+## Process - Android Online Course
 * Enrollment
 	* Apply online now
 	* Pay for the course
