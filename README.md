@@ -63,6 +63,12 @@ MindOrks Android Online Course is an online course in which you learn the indust
 * All students will need a personal computer that is capable of running [Android Studio](https://developer.android.com/studio)
 * Access to an Android device is helpful, but not necessary. You may use the emulator in Android Studio to run your apps if you do not have a physical Android device.
 
+## More about the Android Online Course
+* It's a completely online course with videos and study materials with doubt resolution and mentorship support.
+* You will be added in a dedicated slack group with mentors. You can post your query and it will be resolved that day.
+* You can rewatch the video content. You will be added to the MindOrks Alumni group where you can interact and learn from each other by asking your doubts and taking part in discussions. Life-time community support.
+* Your online course will start from the day you join the course or you can choose your own date.
+
 ## Complete Details for the Android Online Course
 * [Check Android Online Course for Professionals](https://bootcamp.mindorks.com) 
 * [Check Android Online Course for Beginners](https://bootcamp.mindorks.com/android-training-for-beginners)
